@@ -1,0 +1,35 @@
+*{
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+table{
+    border: 1px solid black;
+    width: 100%;
+}
+header{
+    text-align: center;   
+    font-size:larger; 
+}
+th{
+    background-color: rgba(1, 106, 158, 0.85);
+    height: 1cm;
+}
+.days{
+    background-color:#00A2FF;
+    text-align: center;
+}
+.dayColumn{
+    background-color: rgba(1, 106, 158, 0.85);
+}
+td{
+    background-color: rgba(0, 170, 255, 0.521);
+    text-align: center;
+    height: 1cm
+}
+.descanso{
+    background-color:rgba(0, 170, 255, 0.171);
+    text-align: center;
+}
